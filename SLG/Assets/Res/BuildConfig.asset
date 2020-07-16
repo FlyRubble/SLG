@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f11b13d344d6ef458fec8ed315edb14, type: 3}
+  m_Name: BuildConfig
+  m_EditorClassIdentifier: 
+  m_list:
+  - m_asset: {fileID: 102900000, guid: 93f2e5dd6076f344996fd7414e9aefdb, type: 3}
+    m_bundleType: 0
+    m_compressType: 0
+  - m_asset: {fileID: 102900000, guid: 07b9fd6cb616dc1429d9d82abb8682fa, type: 3}
+    m_bundleType: 64
+    m_compressType: 0
+  - m_asset: {fileID: 11400000}
+    m_bundleType: 64
+    m_compressType: 0
+  - m_asset: {fileID: 4900000, guid: 4e30366433d288f439d348d8e4d36d66, type: 3}
+    m_bundleType: 64
+    m_compressType: 0
+  - m_asset: {fileID: 102900000, guid: fc53658ac65c2ae4ba5ae15aad98723c, type: 3}
+    m_bundleType: 64
+    m_compressType: 0
+  - m_asset: {fileID: 4900000, guid: 6e80176c699d84e45b375ea989ad1510, type: 3}
+    m_bundleType: 64
+    m_compressType: 0
+  - m_asset: {fileID: 102900000, guid: cf7427413581f9543a366eaed46763ad, type: 3}
+    m_bundleType: 2
+    m_compressType: 0
+  - m_asset: {fileID: 102900000, guid: 29accfcdb3a8dde468d56c13aff2e8c7, type: 3}
+    m_bundleType: 2
+    m_compressType: 0

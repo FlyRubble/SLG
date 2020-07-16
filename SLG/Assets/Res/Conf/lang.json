@@ -1,0 +1,56 @@
+{
+  "lang": [
+    {
+      "uuid": "SmallTips",
+      "value": "一般武将星级越高也越厉害;武将可以靠吞噬来成长;同阵营的武将有加成作用"
+    },
+    {
+      "uuid": "CozyTips",
+      "value": "抵制不良游戏 拒绝盗版游戏 注意自我保护 谨防受骗上当\n适度游戏益脑 沉迷游戏伤身 合理安排时间 享受健康生活"
+    },
+    {
+      "uuid": "NetworkBreak",
+      "value": "网络连接失败，请检查网络设置。"
+    },
+    {
+      "uuid": "InstallNewVersion",
+      "value": "客户端版本过低，确定安装新版本吗？"
+    },
+    {
+      "uuid": "Sure",
+      "value": "确定"
+    },
+    {
+      "uuid": "Cancel",
+      "value": "取消"
+    },
+    {
+      "uuid": "Quit",
+      "value": "退出"
+    },
+    {
+      "uuid": "Update",
+      "value": "更新"
+    },
+    {
+      "uuid": "GetVersionFail",
+      "value": "获取版本信息失败。"
+    },
+    {
+      "uuid": "NewAssetNeedUpdate",
+      "value": "有新资源需要更新，此次更新{0:F2}MB，\n确定更新吗？"
+    },
+    {
+      "uuid": "UpdateDetail",
+      "value": "{0:F2}MB/{1:F2}MB {2:F2}MB/s"
+    },
+    {
+      "uuid": "GetVersionInfo",
+      "value": "获取版本信息"
+    },
+    {
+      "uuid": "AssetLoading",
+      "value": "资源加载中(不消耗流量)"
+    }
+  ]
+}

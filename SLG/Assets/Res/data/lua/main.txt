@@ -1,0 +1,41 @@
+local socket = require "socket"
+
+main = {}
+
+-- 初始化
+function init(config)
+	local jsonConfig = require "common.config";
+	
+	local tb = jsonConfig:Init();
+	for key,value in pairs(tb) do
+		config:Add(key, value);
+	end
+	
+	print(config.Count);
+end
+
+-- 开始
+function start()
+	require("Global");
+	print(#Global.Config.lang.language);
+
+	local ll = CS.Framework.Param.Create();
+	print(type(ll));
+	
+	ll:AddEvent('update', destroy);
+	--local c = ll:GetAction("update");
+	--print(type(c));
+	Global.UI.OpenUI("uinormaltipsbox", ll);
+end
+
+-- 更新
+function update()
+	print(socket.gettime());
+end
+
+-- 销毁
+function destroy()
+	print("destroy");
+end
+
+return main

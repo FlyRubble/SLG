@@ -1,0 +1,32 @@
+{
+  "lang": [
+    {
+      "uuid": "Cozy_Tips",
+      "value": "抵制不良游戏 拒绝盗版游戏 注意自我保护 谨防受骗上当\\n适度游戏益脑 沉迷游戏伤身 合理安排时间 享受健康生活"
+    },
+    {
+      "uuid": "Network_Invalid",
+      "value": "连接网络失败，请检查网络设置。"
+    },
+    {
+      "uuid": "Version_Low",
+      "value": "客户端版本过低，确定安装新版本？"
+    },
+    {
+      "uuid": "Asset_Request",
+      "value": "请求资源中..."
+    },
+    {
+      "uuid": "Asset_Decompressing",
+      "value": "正在解压资源，此过程不消耗您的流量，请稍等..."
+    },
+    {
+      "uuid": "Asset_Updating",
+      "value": "资源更新中..."
+    },
+    {
+      "uuid": "Asset_Loading",
+      "value": "资源加载中..."
+    }
+  ]
+}

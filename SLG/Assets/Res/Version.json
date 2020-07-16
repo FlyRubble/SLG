@@ -1,0 +1,28 @@
+﻿{
+	"selectIndex": 0,
+	"data": 
+		[
+			{
+				"name": "\u81EA\u5B9A\u4E49",
+				"productName": "",
+				"bundleIdentifier": "",
+				"version": "1.0.0",
+				"innerVersion": "1.0.0",
+				"assetVersion": "1.0.0",
+				"bundleVersionCode": 1,
+				"scriptingDefineSymbols": "",
+				"loginUrl": "",
+				"cdn": "",
+				"openGuide": true,
+				"openUpdate": true,
+				"unlockAllFunction": true,
+				"log": true,
+				"logLevel": 0,
+				"webLog": false,
+				"webLogIp": "",
+				"androidPlatformName": "Android",
+				"iOSPlatformName": "iOS",
+				"defaultPlatformName": "PC"
+			}
+		]
+}

@@ -1,0 +1,19 @@
+
+Config = {}
+
+local json = require "common.json";
+
+-- 初始化
+function Config.Init()
+
+	local tb = {};
+	tb["data/conf/lang.json"] = function (text)
+		Config.lang = json.decode(text);
+		print(#Config.lang.language);
+		print(Config.lang.language[1].uuid);
+	end
+	
+	return tb;
+end
+
+return Config;

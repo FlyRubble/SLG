@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 52a1743e4cef68f49b67c2100a11239d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FZJianZhi-M23S
+  fontNames:
+  - FZJianZhi-M23S
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: res/font/fzjz
+  assetBundleVariant: unity3d
